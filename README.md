@@ -7,9 +7,9 @@
 We recommend using Anaconda for setting up the environment of experiments
 
 > conda create -n cascadebert python=3.7
-conda activate cascadebert
-conda install pytorch torchvision cudatoolkit=11.0 -c pytorch
-pip install -r requirements 
+> conda activate cascadebert
+> conda install pytorch torchvision cudatoolkit=11.0 -c pytorch
+> pip install -r requirements 
 
 
 ## Data & Model Preparement
