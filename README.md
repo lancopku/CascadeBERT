@@ -32,5 +32,7 @@ We provide a sample running script for MRPC, unzip the downloaded data and model
 You can obtain results in the `saved_models` path.
 
 
+## Contact
 
+If you have any problems, raise a issue or contact with [me](mailto:tobiaslee@foxmail.com)
 
