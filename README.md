@@ -1,6 +1,6 @@
 # CascadeBERT
 
-
+Implementation code of [CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade](https://arxiv.org/abs/2012.14682), Findings of EMNLP 2021
 
 ## Requirements
 
@@ -15,7 +15,6 @@ conda install pytorch torchvision cudatoolkit=11.0 -c pytorch
 pip install -r requirements
 ```
  
-
 
 ## Data & Model Preparement
 
@@ -34,7 +33,19 @@ We provide a sample running script for MRPC, unzip the downloaded data and model
 You can obtain results in the `saved_models` path.
 
 
-## Contact
+## Contact 
 
-If you have any problems, raise a issue or contact with [me](mailto:tobiaslee@foxmail.com)
+If you have any problems, raise a issue or contact [Lei Li](mailto:tobiaslee@foxmail.com)
+
+## Citation
+
+If you find this repo helpful, we'd appreciate it a lot if you can cite the corresponding paper:
+```
+@article{li2020accelerating,
+  title={Accelerating pre-trained language models via calibrated cascade},
+  author={Li, Lei and Lin, Yankai and Ren, Shuhuai and Chen, Deli and Ren, Xuancheng and Li, Peng and Zhou, Jie and Sun, Xu},
+  journal={arXiv preprint arXiv:2012.14682},
+  year={2020}
+}
+```
 
