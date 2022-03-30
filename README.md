@@ -41,11 +41,19 @@ If you have any problems, raise a issue or contact [Lei Li](mailto:tobiaslee@fox
 
 If you find this repo helpful, we'd appreciate it a lot if you can cite the corresponding paper:
 ```
-@article{li2020accelerating,
-  title={Accelerating pre-trained language models via calibrated cascade},
-  author={Li, Lei and Lin, Yankai and Ren, Shuhuai and Chen, Deli and Ren, Xuancheng and Li, Peng and Zhou, Jie and Sun, Xu},
-  journal={arXiv preprint arXiv:2012.14682},
-  year={2020}
+@inproceedings{li2021cascadebert,
+    title = "{C}ascade{BERT}: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade",
+    author = "Li, Lei  and
+      Lin, Yankai  and
+      Chen, Deli  and
+      Ren, Shuhuai  and
+      Li, Peng  and
+      Zhou, Jie  and
+      Sun, Xu",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    year = "2021",
+    url = "https://aclanthology.org/2021.findings-emnlp.43",
+    pages = "475--486",
 }
 ```
 
